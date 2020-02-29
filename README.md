@@ -8,7 +8,7 @@ Formet of transition table(input.txt):
 	4   3  -1
 	-1 -1  101
 
-	this is a simple transition table for 5 states(each row except 1st representing a state) and 2 symbols having ASCII 97 and 98 last column is showing that if the state is final or not. if the state is final(accepting) then last column will have non zero value. This will be input file giving information about your language and characters including in it.
+This is a simple transition table for 5 states(each row except 1st representing a state) and 2 symbols having ASCII 97 and 98 last column is showing that if the state is final or not. if the state is final(accepting) then last column will have non zero value. This will be input file giving information about your language and characters including in it.
 
 Formet of output having transition table(output.txt):
 
@@ -22,7 +22,7 @@ Formet of output having transition table(output.txt):
 	2 column is for:   98
 	3 column is for:  128
 
-	above is shown output file that will create a generic transition table for all existing ASCII values(0-127) and will provide all information. you can compare above inout file and this output file to get fare idea about this.
+above is shown output file that will create a generic transition table for all existing ASCII values(0-127) and will provide all information. you can compare above inout file and this output file to get fare idea about this.
 
 Program input file(input_string.txt):
 	this file will contain program of your language for tokenization.
