@@ -1,6 +1,7 @@
 It is Generic Lexical Analyzer implemented in C++ that can be used to tokenize any code of any  language. you have to provide transition table of the language automaton and input file having code of language. The program will output a file having concise transition table and will provide output of lexemes of related classes on console(stdout).
 
 Formet of transition table(input.txt):
+	
 	97  98 128
 	1   3  -1
 	1   2  -1
